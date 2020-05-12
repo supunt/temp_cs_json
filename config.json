@@ -1,0 +1,15 @@
+{
+  "VehicleConfiguration": [
+    {
+      "VehicleUniqueID": 1000,
+      "VehicleRegistrationPlate": "XXX5981",
+      "VehicleType": 1,
+      "VehicleGrossWeight": 3900,
+      "VehicleTare": 900,
+      "VehicleStart": "07:00",
+      "VehicleEnd": "17:00",
+      "MaxStops": 45
+
+    }
+  ]
+}
